@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../scss"
+		},
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../fonts"
+		}
+	]
+}
